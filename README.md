@@ -22,3 +22,5 @@ say Parser.parse: 'I love Rust';
 # OUTPUT: ｢I love Rust｣ love => ｢love｣ lang => ｢Rust｣
 ```
 # Enjoy ;?
+
+https://perl6.org/
